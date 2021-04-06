@@ -1,2 +1,2 @@
-# ijupiter425.github.com
+# ijupiter425.github.io
 blog
