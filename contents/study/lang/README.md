@@ -1,3 +1,3 @@
-# I'm folder2
+# program language
 
 source: `{{ page.path }}`
