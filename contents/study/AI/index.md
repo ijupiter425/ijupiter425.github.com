@@ -1,3 +1,3 @@
-# file1
+# AI
 
 source: `{{ page.path }}`
