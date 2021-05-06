@@ -1,3 +1,3 @@
-# I'm folder1
+# study
 
 source: `{{ page.path }}`
