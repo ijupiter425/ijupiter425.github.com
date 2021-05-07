@@ -1,3 +1,3 @@
-# portfolio
+# video
 
 source: `{{ page.path }}`
