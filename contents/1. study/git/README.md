@@ -1,2 +1,2 @@
-# DB
+# git
 source: `{{ page.path }}`
