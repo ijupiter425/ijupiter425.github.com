@@ -1,3 +1,3 @@
 # open source
 
-[flatbuffer](https://github.com/google/flatbuffers)
+* flatbuffer <https://github.com/google/flatbuffers>
