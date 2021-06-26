@@ -1,3 +1,3 @@
-# 1. open source
+# open source
 
 source: `{{ page.path }}`
