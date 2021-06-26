@@ -1,3 +1,4 @@
 # open source
 
-[flatbuffer](https://github.com/google/flatbuffers){: target="_blank"}
+<a href="https://github.com/google/flatbuffers" target="_blank">flatbuffer</a>
+[flatbuffer](https://github.com/google/flatbuffers)
