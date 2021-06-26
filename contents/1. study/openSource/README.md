@@ -1,3 +1,6 @@
 # open source
 
-* flatbuffer <https://github.com/google/flatbuffers>
+Link: [Google][googlelink]
+
+[googlelink]: https://github.com/google/flatbuffers "Go google"
+[flatbuffer] (https://github.com/google/flatbuffers)
