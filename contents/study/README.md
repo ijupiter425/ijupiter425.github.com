@@ -1,3 +1,3 @@
-# study
+# note
 
 source: `{{ page.path }}`
