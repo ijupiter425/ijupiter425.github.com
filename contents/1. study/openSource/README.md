@@ -1,3 +1,3 @@
 # open source
 
-source: `{{ page.path }}`
+[flatbuffer](https://github.com/google/flatbuffers, "zzz")
