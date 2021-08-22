@@ -10,4 +10,4 @@ source: `{{ page.path }}`
   </Query>
 </QueryList>
 
-[TensorFlow](https://www.tensorflow.org/, "google link")
+[TensorFlow][https://www.tensorflow.org/]
