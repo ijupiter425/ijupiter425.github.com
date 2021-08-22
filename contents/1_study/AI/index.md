@@ -2,4 +2,4 @@
 
 source: `{{ page.path }}`
 
-[TensorFlow][https://www.tensorflow.org/]
+<a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
