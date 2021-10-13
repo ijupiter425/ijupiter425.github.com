@@ -1,3 +1,3 @@
-# tip
+# wiseSaying
 
 source: `{{ page.path }}`
