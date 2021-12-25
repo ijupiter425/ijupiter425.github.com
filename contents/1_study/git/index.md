@@ -15,7 +15,7 @@ source: `{{ page.path }}`
 >> + __git stash [save]__ : 아직 마무리하지 않은 작업을 스택에 잠시 저장( Modified, Staged 파일만 )
 >> + __git stash list__ : stash 목록 확인하기
 >> + __git stash apply [stash 이름]__ : stash 했던 작업을 다시 가져온다( stash 이름 예제 : stash@{2} ).
->>> [stash 이름]이 없다면 가장 최근의 stash를 가졍와 적용한다.
+>>>> [stash 이름]이 없다면 가장 최근의 stash를 가졍와 적용한다.
 >> + __git stash drop [stash 이름]__ : stash 제거.
 >> + __git stash pop [stash 이름]__ : apply + drop.
 >> + __git stash show -p [stash 이름] &#124; git apply -R__ : stash 이름(ex. stash@{2})에 해당하는 stash를 이용하여 거꾸로 적용한다..
