@@ -18,7 +18,7 @@ source: `{{ page.path }}`
 >>>> [stash 이름]이 없다면 가장 최근의 stash를 가졍와 적용한다.
 >> + __git stash drop [stash 이름]__ : stash 제거.
 >> + __git stash pop [stash 이름]__ : apply + drop.
->> + __git stash show -p [stash 이름] &#124; git apply -R__ : stash 이름(ex. stash@{2})에 해당하는 stash를 이용하여 거꾸로 적용한다..
+>> + __git stash show -p [stash 이름] &#124; git apply -R__ : stash 이름(ex. stash@{2})에 해당하는 stash를 이용하여 거꾸로 적용한다.
 >> + __alias__ : 예제 => git config --global alias.stash-unapply '!git stash show -p &#124; git apply -R'
 
 > __용어__
