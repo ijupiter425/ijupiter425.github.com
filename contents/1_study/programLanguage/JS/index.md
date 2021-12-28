@@ -4,6 +4,10 @@
 
 <a href="https://developer.mozilla.org/ko/" target="_blank">web( js, html, css, api )</a>
 
+# react
+- npm install -g create-react-app
+- npx create-react-app {app 이름}
+
 # tool site
 
 <a href="http://jsbin.com" target="_blank">jsbin</a>
