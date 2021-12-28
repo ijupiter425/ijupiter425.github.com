@@ -22,6 +22,6 @@ source: `{{ page.path }}`
 > + __alias__ : 예제 => git config --global alias.stash-unapply '!git stash show -p &#124; git apply -R'
 > + __git remote add origin URL__ : repository 생성 후 첫 add시 사용
 > + __git push --set-upstream origin [branch name]__ :  repository 생성 후 첫 push시 사용
-> 
- __용어__
+
+__용어__
 > + tracked : unmodified, modified, staged
