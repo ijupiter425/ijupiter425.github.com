@@ -22,6 +22,7 @@ source: `{{ page.path }}`
 > + __alias__ : 예제 => git config --global alias.stash-unapply '!git stash show -p &#124; git apply -R'
 > + __git remote add origin URL__ : repository 생성 후 첫 add시 사용
 > + __git push --set-upstream origin [branch name]__ :  repository 생성 후 첫 push시 사용
+> + __git pull origin [branch name] --allow-unrelated-histories__ : 서로 관련 기록이 없는 이질적인 두 프로젝트를 병합할 때 기본적으로 거부하는데, 이것을 허용해 주는 것
 
 __용어__
 > + tracked : unmodified, modified, staged
