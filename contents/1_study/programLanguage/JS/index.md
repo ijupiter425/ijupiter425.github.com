@@ -6,7 +6,7 @@
 
 # react
 - npm install -g create-react-app
-- npx create-react-app {app 이름}
+- [npx] create-react-app {app 이름}
 
 # tool site
 
