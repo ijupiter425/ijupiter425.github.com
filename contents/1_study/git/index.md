@@ -20,6 +20,8 @@ source: `{{ page.path }}`
 > + __git stash pop [stash 이름]__ : apply + drop.
 > + __git stash show -p [stash 이름] &#124; git apply -R__ : stash 이름에 해당하는 stash를 이용하여 거꾸로 적용한다.
 > + __alias__ : 예제 => git config --global alias.stash-unapply '!git stash show -p &#124; git apply -R'
-
+> + __git remote add origin URL__ : repository 생성 후 첫 add시 사용
+> + __git push --set-upstream origin [branch name]__ :  repository 생성 후 첫 push시 사용
+> 
  __용어__
 > + tracked : unmodified, modified, staged
