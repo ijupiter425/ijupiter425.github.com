@@ -6,6 +6,7 @@
 
 # react
 - npm install -g create-react-app
+- npm install @material-ui/core
 - [npx] create-react-app {app 이름}
 
 # tool site
