@@ -10,6 +10,10 @@
 - [npx] create-react-app {app 이름}
 - <a href="https://mui.com//" target="_blank">material-ui</a>
 
+# nodejs & express
+- npm install -g nodemon ( 서버 코드를 변경 할 때마다 서버를 재시작 )
+- nodemon --watch src/ src/index.js ( 코드가 바뀔떄마다 자동으로 재시작 )
+
 # tool site
 
 <a href="http://jsbin.com" target="_blank">jsbin</a>
