@@ -5,3 +5,5 @@
 <a href="https://code.visualstudio.com/" target="_blank">visualStudioCode</a>
 
 <a href="https://git-scm.com/" target="_blank">git</a>
+
+<a href="https://www.heidisql.com/" target="_blank">heidsql</a>
