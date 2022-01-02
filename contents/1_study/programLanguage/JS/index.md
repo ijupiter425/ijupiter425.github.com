@@ -6,7 +6,7 @@
 
 # react
 - npm install -g create-react-app
-- npm install @material-ui/core
+- npm install @material-ui/[core, system, utils, icons]
 - [npx] create-react-app {app 이름}
 - <a href="https://mui.com//" target="_blank">material-ui</a>
 
