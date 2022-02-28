@@ -49,3 +49,8 @@ ls -l | grep ^- | wc -l
 ```bash
 sysctl fs.file-max
 ```
+
+ __스레드별 콜스택 남기기__
+```bash
+sudo gdb process_name core.6176 -ex "set logging on" -ex "set pagination off" -ex "set confirm off" -ex "thread apply all bt" -ex "q" > coreLog
+```
