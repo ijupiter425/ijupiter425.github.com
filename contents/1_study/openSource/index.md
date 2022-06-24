@@ -13,3 +13,5 @@
 <a href="https://github.com/apache/kafka" target="_blank">kafka</a>
 
 <a href="https://github.com/kubernetes/kubernetes" target="_blank">kubernetes</a>
+
+<a href="https://github.com/Neargye/magic_enum" target="_blank">magic enum</a>
