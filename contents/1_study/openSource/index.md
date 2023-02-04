@@ -17,3 +17,6 @@
 <a href="https://github.com/Neargye/magic_enum" target="_blank">magic enum</a>
 
 <a href="https://github.com/llvm/llvm-project" target="_blank">llvm</a>
+
+<a href="https://github.com/lsalzman/enet" target="_blank">enet(rudp)</a>
+
