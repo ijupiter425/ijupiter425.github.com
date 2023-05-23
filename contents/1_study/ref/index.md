@@ -3,7 +3,7 @@
 # 좋은자료
 <a href="http://www.koreascience.or.kr/main.page" target="_blank">paper</a>
 
-<a href="http://wikidoc.net" target="_blank">wiki doc</a>
+<a href="http://wikidocs.net" target="_blank">wiki doc</a>
 
 # json tool
 <a href="http://jsondiff.com" target="_blank">json diff</a>
